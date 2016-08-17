@@ -1,0 +1,1294 @@
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations1
+Aug 17, 2016 11:29:09 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->10->6->13->1->3->4->17->1->23->22->7->1->8->9->5->1->12->15->14->1->18->21->11->1->2->20->16->19->1 1270.5691795782204
+
+Aug 17, 2016 11:29:09 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->23->16->4->1->9->21->14->1->11->10->8->1->2->13->17->1->22->18->7->1->20->3->15->1->6->12->5->19->1 1264.9076171951717
+
+Aug 17, 2016 11:29:09 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->19->7->11->1->8->15->13->1->12->2->18->1->3->4->5->1->21->23->14->1->9->17->10->1->22->6->16->20->1 1242.9225795488799
+
+Aug 17, 2016 11:29:09 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->12->7->10->1->3->2->21->1->20->13->17->1->19->8->22->1->6->5->11->1->9->4->18->1->16->23->14->15->1 1171.810792849802
+
+Aug 17, 2016 11:29:09 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->14->17->4->1->21->23->10->1->13->5->16->1->6->2->11->1->9->15->19->1->3->18->20->1->22->8->7->12->1 1116.982832565131
+
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations3
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations4
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 8
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations5
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 5
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations6
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 3
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations7
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations8
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations9
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations10
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations11
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations12
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations13
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations14
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations15
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations16
+Aug 17, 2016 11:29:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:09 PM ga.core.RunGA run
+INFO: Iterations17
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations18
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations19
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations20
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations21
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations22
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations23
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations24
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations25
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations26
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations27
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations28
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations29
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations30
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations31
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations32
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations33
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations34
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations35
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations36
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations37
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations38
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations39
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations40
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations41
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations42
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations43
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations44
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations45
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations46
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations47
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations48
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations49
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations50
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations51
+Aug 17, 2016 11:29:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:29:10 PM ga.core.RunGA run
+INFO: Iterations52
+Aug 17, 2016 11:29:10 PM ga.core.RunGA reset
+INFO: Adding back best chromosomes
+Aug 17, 2016 11:29:10 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 52:1->6->10->13->1->4->17->3->1->22->23->7->1->5->8->9->1->12->15->14->1->21->11->18->1->20->16->2->19->1 1080.26968956086
+
+Aug 17, 2016 11:29:10 PM ga.cvrp.FruityBunCVRP main
+SEVERE: null
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->16->21->10->1->15->4->14->1->9->22->11->1->13->2->20->1->5->3->6->1->12->8->17->1->18->7->19->23->1 1361.5190552635786
+
+Aug 17, 2016 11:51:38 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->4->3->16->1->10->11->13->1->6->7->8->1->17->22->18->1->15->9->2->1->20->14->21->1->12->19->23->5->1 1273.072588943034
+
+Aug 17, 2016 11:51:38 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->14->3->10->1->19->13->16->1->12->22->20->1->5->9->23->1->15->17->21->1->2->11->4->1->7->8->18->6->1 1158.2704562497117
+
+Aug 17, 2016 11:51:38 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->19->14->20->1->16->18->3->1->9->6->4->1->10->22->21->1->17->15->11->1->12->7->2->1->23->13->8->5->1 1122.316055892384
+
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations2
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations3
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations4
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 5
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations5
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 3
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations6
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations7
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations8
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations9
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations10
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations11
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations12
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations13
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations14
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations15
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations16
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations17
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations18
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations19
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations20
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations21
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations22
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations23
+Aug 17, 2016 11:51:38 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:38 PM ga.core.RunGA run
+INFO: Iterations24
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations25
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations26
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations27
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations28
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations29
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations30
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations31
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations32
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations33
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations34
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations35
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations36
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations37
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations38
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations39
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations40
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations41
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations42
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations43
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations44
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations45
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations46
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations47
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations48
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations49
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations50
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations51
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations52
+Aug 17, 2016 11:51:39 PM ga.core.RunGA reset
+INFO: Adding back best chromosomes
+Aug 17, 2016 11:51:39 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 52:1->14->3->10->1->19->13->16->1->20->12->22->1->23->5->9->1->15->17->21->1->11->4->2->1->18->6->7->8->1 1077.6342935897492
+
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations53
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations54
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations55
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 6
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations56
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 4
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations57
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations58
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations59
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations60
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations61
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations62
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations63
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations64
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations65
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations66
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations67
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations68
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations69
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations70
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations71
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations72
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations73
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations74
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations75
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations76
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations77
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations78
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations79
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations80
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations81
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations82
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations83
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations84
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations85
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations86
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations87
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations88
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations89
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations90
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations91
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations92
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations93
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations94
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations95
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations96
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations97
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations98
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations99
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations100
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations101
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations102
+Aug 17, 2016 11:51:39 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:39 PM ga.core.RunGA run
+INFO: Iterations103
+Aug 17, 2016 11:51:39 PM ga.core.RunGA reset
+INFO: Adding back best chromosomes
+Aug 17, 2016 11:51:39 PM ga.cvrp.FruityBunCVRP main
+SEVERE: null
+Aug 17, 2016 11:51:50 PM ga.core.RunGA run
+INFO: Iterations1
+Aug 17, 2016 11:51:50 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->12->23->8->1->13->7->17->1->5->16->14->1->3->11->6->1->20->15->4->1->19->22->10->1->2->9->18->21->1 1276.0386331345205
+
+Aug 17, 2016 11:51:50 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->20->9->11->1->15->8->17->1->23->2->14->1->16->5->19->1->18->22->3->1->7->13->4->1->10->12->21->6->1 1272.5848770032947
+
+Aug 17, 2016 11:51:50 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->4->13->15->1->5->6->16->1->7->2->14->1->22->18->12->1->17->20->9->1->11->21->10->1->23->19->3->8->1 1272.1818298049418
+
+Aug 17, 2016 11:51:50 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->6->22->19->1->15->21->8->1->20->23->12->1->16->13->2->1->14->17->9->1->3->4->11->1->7->10->18->5->1 1230.901008979237
+
+Aug 17, 2016 11:51:50 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->22->16->10->1->15->9->4->1->3->12->18->1->13->14->19->1->23->8->7->1->21->11->17->1->2->20->5->6->1 1214.2547419288405
+
+Aug 17, 2016 11:51:50 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->17->4->7->1->3->6->16->1->15->5->13->1->21->20->9->1->11->12->23->1->14->2->8->1->22->10->18->19->1 1202.8741305123715
+
+Aug 17, 2016 11:51:50 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->23->4->13->1->8->20->11->1->2->17->9->1->16->19->14->1->18->15->10->1->12->6->7->1->3->21->22->5->1 1165.9356126022865
+
+Aug 17, 2016 11:51:50 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->4->7->11->1->6->17->2->1->15->19->14->1->8->13->18->1->22->23->5->1->21->3->12->1->10->9->20->16->1 1154.6905205049347
+
+Aug 17, 2016 11:51:50 PM ga.core.RunGA run
+INFO: Iterations2
+Aug 17, 2016 11:51:50 PM ga.core.RunGA run
+INFO: Iterations3
+Aug 17, 2016 11:51:50 PM ga.core.RunGA run
+INFO: Iterations4
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 6
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations5
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 4
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations6
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations7
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations8
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations9
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations10
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations11
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations12
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations13
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations14
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations15
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations16
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations17
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations18
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations19
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations20
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations21
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations22
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations23
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations24
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations25
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations26
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations27
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations28
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations29
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations30
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations31
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations32
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations33
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations34
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations35
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations36
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations37
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations38
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations39
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations40
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations41
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations42
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations43
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations44
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations45
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations46
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations47
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations48
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations49
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations50
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations51
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations52
+Aug 17, 2016 11:51:51 PM ga.core.RunGA reset
+INFO: Adding back best chromosomes
+Aug 17, 2016 11:51:51 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 52:1->17->7->9->1->22->21->12->1->11->13->8->1->10->6->4->1->3->15->14->1->19->23->2->1->16->18->5->20->1 1141.347415841653
+
+Aug 17, 2016 11:51:51 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 52:1->4->7->11->1->6->17->2->1->15->14->19->1->18->8->13->1->22->23->5->1->21->12->3->1->20->10->9->16->1 1065.4792862064273
+
+Aug 17, 2016 11:51:51 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 52:1->23->4->13->1->20->11->8->1->2->17->9->1->16->14->19->1->18->10->15->1->12->7->6->1->21->22->5->3->1 1063.0959875692697
+
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations53
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations54
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations55
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 5
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations56
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 4
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations57
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations58
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations59
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:51 PM ga.core.RunGA run
+INFO: Iterations60
+Aug 17, 2016 11:51:51 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations61
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations62
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations63
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations64
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations65
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations66
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations67
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations68
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations69
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations70
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations71
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations72
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations73
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations74
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations75
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations76
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations77
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations78
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations79
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations80
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations81
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations82
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations83
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations84
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations85
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations86
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations87
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations88
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations89
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations90
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations91
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations92
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations93
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations94
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations95
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations96
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations97
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations98
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations99
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations100
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations101
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations102
+Aug 17, 2016 11:51:52 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 1
+Aug 17, 2016 11:51:52 PM ga.core.RunGA run
+INFO: Iterations103
+Aug 17, 2016 11:51:52 PM ga.core.RunGA reset
+INFO: Adding back best chromosomes
+Aug 17, 2016 11:51:52 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 103:1->7->17->9->1->21->22->12->1->11->8->13->1->6->4->10->1->3->15->14->1->23->2->19->1->20->18->5->16->1 1020.7302171738834
+
+Aug 17, 2016 11:51:52 PM ga.cvrp.FruityBunCVRP main
+SEVERE: null
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations1
+Aug 17, 2016 11:52:09 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->9->19->13->1->6->5->16->1->10->23->7->1->4->17->12->1->21->3->11->1->22->8->20->1->14->15->18->2->1 1233.3926465147613
+
+Aug 17, 2016 11:52:09 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 1:1->8->23->12->1->20->13->2->1->10->11->21->1->9->5->19->1->18->14->16->1->15->17->3->1->4->6->22->7->1 1172.5906985288768
+
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations3
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations4
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 6
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations5
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 4
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations6
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations7
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations8
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations9
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations10
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations11
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations12
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations13
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations14
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations15
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations16
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations17
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations18
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations19
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations20
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations21
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations22
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations23
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations24
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations25
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations26
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations27
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations28
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations29
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations30
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations31
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations32
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations33
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations34
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations35
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations36
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations37
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations38
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:09 PM ga.core.RunGA run
+INFO: Iterations39
+Aug 17, 2016 11:52:09 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations40
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations41
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations42
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations43
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations44
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations45
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations46
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations47
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations48
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations49
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations50
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations51
+Aug 17, 2016 11:52:10 PM ga.core.select.SUSSelector operate
+INFO: Unique chromosomes reduced to 2
+Aug 17, 2016 11:52:10 PM ga.core.RunGA run
+INFO: Iterations52
+Aug 17, 2016 11:52:10 PM ga.core.RunGA reset
+INFO: Adding back best chromosomes
+Aug 17, 2016 11:52:10 PM ga.core.RunGA storeBestChromosome
+INFO: Best solution improved 52:1->12->8->23->1->20->13->2->1->10->11->21->1->5->9->19->1->18->16->14->1->15->17->3->1->22->6->7->4->1 1086.385721122554
+
+Aug 17, 2016 11:52:10 PM ga.cvrp.FruityBunCVRP main
+SEVERE: 24
